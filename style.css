@@ -71,7 +71,7 @@ h1 {
 	border: none;
 }
 .thumbUp {
-	border: 1px #9D9C9C solid;	
+	border: 1px #9D9C9C solid;
 }
 .largeImage {
 	height: 100%;
@@ -82,4 +82,18 @@ h1 {
 	height: 25px;
 	width: 100%;
 	color: #fff;
+}
+
+/*
+	Yael Added CSS
+*/
+
+.thumbnails {
+	margin-bottom: 1em;
+}
+
+.title {
+	text-align: center;
+	font-size: 2em;
+	margin-bottom: 1em;
 }
