@@ -1,0 +1,14 @@
+  Project Reflection:
+    Answer the following questions when you submit your assignments files.
+      a. What is the theme of your design?
+        The theme is a photogallery of Formula 1 Driver Lewis Hamilton. They are random pictures.
+
+      b. Where did you find your photos (include URL if image was downloaded from the Internet)?
+        Google Images searching for Lewis Hamilton, changing the image size in the settings to Large.
+        URL: https://www.google.com/search?q=Lewis+Hamilton&tbm=isch&source=lnt&tbs=isz:l&sa=X&ved=0ahUKEwiowPmZl8riAhVGw1kKHcrFBcYQpwUIIw&biw=971&bih=690&dpr=1
+
+      c. What modifications did you make to the images (describe what you did to complete the assignment)?
+        I resized the images to 800x400 in photoshop.
+
+      d. What issues or challenges did you face completing this project?
+        Challenges I faced with was how to use the id selectors, add/remove class, and write switch statement. I have not used those techniques in awhile so I had to google and use w3schools as a refresher.

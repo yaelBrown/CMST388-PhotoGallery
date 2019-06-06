@@ -92,8 +92,25 @@ h1 {
 	margin-bottom: 1em;
 }
 
+.thumbnails img {
+	margin-left: .1em;
+	margin-right: .1em;
+}
+
 .title {
 	text-align: center;
 	font-size: 2em;
 	margin-bottom: 1em;
+}
+
+.clicked {
+	border: 2px solid white;
+}
+
+.borderReset {
+	display: none;
+}
+
+.htmlValidation {
+	margin-top: 3em;
 }
